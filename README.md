@@ -1,1 +1,2 @@
 # hello-world
+This is Benedict Mokoena , 25 year old, I am an aspiring coder driven to refine and perfect my skills in programming. With a strong passion for technology and problem-solving, I am committed to continuous learning and hands-on practice to become proficient in my craft. My goal is to master coding concepts, build impactful projects, and contribute to innovative solutions in the tech industry.
